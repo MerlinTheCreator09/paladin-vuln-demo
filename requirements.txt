@@ -1,0 +1,4 @@
+# INTENTIONALLY old / vulnerable pins, so the dependency-advisory (OSV) check has
+# something to report. Fake app -- do not use these versions anywhere real.
+PyYAML==5.3.1
+Flask==0.12.2
